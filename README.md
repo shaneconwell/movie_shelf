@@ -1,6 +1,8 @@
 # Movie Shelf
-  Figuring out what to watch has never been easier.
-      
+  A personal virtual movie library using Data from The Movie Database API that keeps track of movies you've watched and allows you to find new titles to watch next.
+  
+  [Link to the deployed application](https://ancient-plateau-78988.herokuapp.com/)
+  
   # Table Of Contents
   
   [Description](##Description)  
